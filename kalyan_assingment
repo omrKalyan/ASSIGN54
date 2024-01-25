@@ -1,0 +1,13 @@
+worker-dd46d7584-r2tl2 
+g vote for 'a' by '751c7317b2729c9'
+Processing vote for 'b' by '751c7317b2729c9'
+Processing vote for 'a' by '751c7317b2729c9'
+Processing vote for 'b' by '751c7317b2729c9'
+Processing vote for 'a' by '751c7317b2729c9'
+Processing vote for 'b' by 'c5b0fe85dbf42f9'
+Processing vote for 'b' by 'e1671ceabb50a67'
+Processing vote for 'b' by 'e1671ceabb50a67'
+Processing vote for 'b' by '
+
+observation: vote pod works fine but the pod restarted 2 times (dont know why) 
+doubt: i dont knw why restart happened
